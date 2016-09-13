@@ -1,0 +1,3 @@
+num = 43233.13643
+
+print (format(num, ',.2f')
